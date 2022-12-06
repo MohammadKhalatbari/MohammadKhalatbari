@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammad Khalatbari</h1>
+
+<h3 align="center">Java and Python Developer</h3>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+<a href="https://www.linkedin.com/in/mohammad-khalatbari/"><img src="https://img.shields.io/badge/-kiahamedi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:khalatbari.mokaram@gmail.com"><img src="https://img.shields.io/badge/-kia.arta9793@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
 <!--
 **MohammadKhalatbari/MohammadKhalatbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
