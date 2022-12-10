@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Khalatbari</h1>
 
 <h3 align="center">Java and Python Developer</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadkhalatbari&color=blueviolet&style=flat">
-</p>
+
 
 ## &#x1f4c8; GitHub Stats
 
