@@ -2,7 +2,7 @@
 
 <h3 align="center">Java and Python Developer</h3>
 
-
+<p><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
 ## &#x1f4c8; GitHub Stats
 
 <p align="center">
