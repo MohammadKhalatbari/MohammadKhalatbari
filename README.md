@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Khalatbari</h1>
 
-<h3 align="center">Java and Python Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 ## &#x1f4c8; GitHub Stats
 
