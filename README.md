@@ -5,9 +5,9 @@
 ## &#x1f4c8; GitHub Stats
 
 <p align="center">
-<a href="https://github.com/mohammadkhalatbari">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadkhalatbari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadkhalatbari&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/adriakhalatbari">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adriankhalatbari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adriankhalatbari&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 ### 🤝🏻 &nbsp;Connect with Me
@@ -18,7 +18,7 @@
 </p>
 
 <!--
-**MohammadKhalatbari/MohammadKhalatbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**adriankhalatbari/adriankhalatbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
